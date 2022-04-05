@@ -1,6 +1,6 @@
 {
     "name": "monaca-template-minimum",
-    "version": "5.0.0",
+    "version": "5.0.1",
     "displayName": "Monaca Template Minimum",
     "dependencies": {
         "cordova-plugin-splashscreen": "6.0.0"
@@ -15,6 +15,6 @@
         "dev": "browser-sync start --no-open -s www/ --watch --port 8080 --ui-port 8081"
     },
     "devDependencies": {
-        "browser-sync": "^2.27.7"
+        "browser-sync": "~2.27.7"
     }
 }
